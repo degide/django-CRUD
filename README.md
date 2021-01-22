@@ -1,4 +1,4 @@
-# django-CRUD by by <a href="https://github.com/degide">Egide H.</a>
+# django-CRUD by <a href="https://github.com/degide">Egide H.</a>
 
 
 ## Description
